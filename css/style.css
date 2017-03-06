@@ -1,0 +1,15 @@
+html {
+    height: 100%;
+}
+
+#Color {
+    height: 50px;
+    width: 50px;
+    border: 1px solid black;
+}
+
+#Color2 {
+    height: 50px;
+    width: 50px;
+    border: 1px solid black;
+}
